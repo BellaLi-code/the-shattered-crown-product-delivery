@@ -1,7 +1,5 @@
-# agile-delivery-simulation
+# The Shattered Crown – Agile Product Delivery (Jira)
 Production-style Agile Scrum delivery simulation using Jira, demonstrating sprint governance, risk management, and stakeholder communication.
-
-# Agile Delivery Simulation – Production-Style Scrum Governance (Jira)
 
 ## Overview
 
