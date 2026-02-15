@@ -3,7 +3,7 @@ Production-style Agile Scrum delivery simulation using Jira, demonstrating sprin
 
 ## Overview
 
-This repository documents a production-simulated Agile delivery framework designed and executed using Jira to manage a 4-month milestone-driven CS game development initiative.
+This repository documents the Agile product delivery governance model designed and executed for The Shattered Crown, a milestone-driven game development initiative managed using Jira.
 
 The objective was to replicate an industry-grade Scrum workflow, incorporating structured backlog hierarchy, sprint cadence governance, risk management, release oversight, and stakeholder transparency mechanisms.
 
