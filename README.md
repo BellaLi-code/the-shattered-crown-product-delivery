@@ -1,5 +1,5 @@
 # The Shattered Crown – Agile Product Delivery (Jira)
-Production-style Agile Scrum delivery simulation using Jira, demonstrating sprint governance, risk management, and stakeholder communication.
+Agile product delivery governance model implemented using Jira, demonstrating sprint cadence control, risk management, release oversight, and stakeholder transparency.
 
 ## Overview
 
@@ -7,7 +7,7 @@ This repository documents the Agile product delivery governance model designed a
 
 The objective was to replicate an industry-grade Scrum workflow, incorporating structured backlog hierarchy, sprint cadence governance, risk management, release oversight, and stakeholder transparency mechanisms.
 
-This project simulates real-world product delivery management beyond academic task tracking.
+This project represents a structured Agile product delivery framework applied to a milestone-driven development initiative.
 
 ---
 
