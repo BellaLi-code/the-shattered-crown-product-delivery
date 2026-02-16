@@ -1,126 +1,188 @@
-# The Shattered Crown – Agile Product Delivery (Jira)
-Agile product delivery governance model implemented using Jira, demonstrating sprint cadence control, risk management, release oversight, and stakeholder transparency.
+# The Shattered Crown
 
-## Overview
-
-This repository documents the Agile product delivery governance model designed and executed for The Shattered Crown, a milestone-driven game development initiative managed using Jira.
-
-The objective was to replicate an industry-grade Scrum workflow, incorporating structured backlog hierarchy, sprint cadence governance, risk management, release oversight, and stakeholder transparency mechanisms.
-
-This project represents a structured Agile product delivery framework applied to a milestone-driven development initiative.
+## Agile Product Delivery Governance (Jira Implementation)
 
 ---
 
-## Project Scope
+## Executive Summary
 
-- Duration: 4 months
-- 7 Epics
-- 68 structured work items
-- 5 sprint cycles
-- 4 major deliverables
-- 100% on-time milestone completion
+Designed and operationalized a full Scrum-based Agile delivery governance system in Jira for a milestone-driven game development project.
 
----
+This repository demonstrates structured backlog architecture, sprint cadence control, release governance, and proactive risk management implemented to simulate an industry-grade product delivery environment.
 
-## Delivery Architecture
-
-The delivery structure was organized as:
-
-Epic → Story → Task → Subtask
-
-Each level contained:
-
-- Clearly defined acceptance criteria
-- Ownership mapping
-- Due dates aligned to sprint cadence
-- Release association
-- Risk and dependency visibility
-
-Backlog decomposition ensured milestone traceability from high-level deliverables down to executable implementation units.
+All major milestones were delivered on schedule across five sprint cycles.
 
 ---
 
-## Sprint Governance Model
+## Project Context
 
-The project operated under a structured Scrum cadence:
+**Course:** CS4483 – Agile Product Delivery
+**Team Size:** 2
+**Duration:** 4 Months
+**Product:** 2D Boss-Focused Action Game (Unity Prototype)
 
-- Sprint planning cycles
-- Work item prioritization
-- Capacity consideration
-- Progress tracking through Jira boards
-- Iterative backlog refinement
-
-Execution governance included:
-
-- Defined sprint goals
-- Release alignment
-- Controlled scope adjustments
-- Work-in-progress visibility
+The objective extended beyond building a playable prototype.
+The core focus was implementing a structured Agile delivery system reflecting real-world product execution standards.
 
 ---
 
-## Risk & Quality Management
+## Delivery Metrics Snapshot
 
-A structured governance layer was implemented to simulate production-level control mechanisms:
-
-- Risk & Issue Log tracking
-- Scope logging for change control
-- Priority-based bug triage (P0 / P1 classification)
-- Smoke test validation checkpoints
-- Release-level oversight
-
-This ensured proactive risk identification, quality visibility, and structured issue escalation pathways.
-
----
-
-## Stakeholder Communication Framework
-
-To simulate stakeholder alignment:
-
-- Sprint review checkpoints
-- Structured progress reporting
-- Risk log updates
-- Release-level transparency mechanisms
-
-The communication model emphasized delivery visibility and alignment across contributors.
+| Metric                     | Value    |
+| -------------------------- | -------- |
+| Duration                   | 4 Months |
+| Sprint Cycles              | 5        |
+| Epics                      | 7        |
+| Total Work Items           | 68       |
+| Major Deliverables         | 4        |
+| On-Time Milestone Delivery | 100%     |
 
 ---
 
-## Tools & Environment
-
-- Jira (Scrum configuration)
-- Version / Release tracking
-- Backlog hierarchy management
-- Sprint board execution tracking
-- CSV export for structured documentation
+# Governance Architecture
 
 ---
 
-## Key Competencies Demonstrated
+## 1. Backlog Hierarchy (Strategic Decomposition)
 
-- Agile delivery governance
-- Backlog architecture design
-- Sprint cadence management
-- Risk & issue control
-- Scope refinement
-- Bug triage prioritization
-- Release oversight
-- Stakeholder transparency
-- Iterative execution management
+Deliverables → Epics → Stories → Subtasks
 
----
+This structure ensured:
 
-## Repository Contents
+* Vertical traceability from milestone to task
+* Scope containment
+* Clear ownership boundaries
+* Controlled backlog growth
 
-- `Jira.csv` — Full work item export (All fields)
-- `/screenshots` — Backlog hierarchy, sprint board, release view, risk log samples
-- `sprint-structure.md` — Detailed sprint cadence breakdown
-- `risk-log-sample.md` — Governance model examples
+![Backlog Hierarchy](screenshots/backlog-hierarchy.png)
 
 ---
 
-## Summary
+## 2. Sprint Execution Board (Operational Control)
 
-This repository represents a structured simulation of industry-style Agile product delivery management.
+Implemented:
 
-It demonstrates the ability to design, operationalize, and govern a complete Scrum-based workflow with full milestone traceability and controlled execution visibility.
+* Timeboxed sprint cadence
+* WIP visibility
+* Status transparency
+* Definition of Done enforcement
+* Iteration-level scope discipline
+
+![Sprint Board](screenshots/sprint-board.png)
+
+---
+
+## 3. Release Governance (Milestone Control)
+
+Versioned releases aligned with academic deliverables:
+
+* D0 – Team Contract
+* D1 – Project Proposal
+* A1 – Activity 1
+* D2 – Mid-Project Report
+
+Enabled:
+
+* Planned vs actual tracking
+* Release-level visibility
+* Scope alignment with deadlines
+
+![Release Tracking](screenshots/release-tracking.png)
+
+---
+
+## 4. Risk Governance Framework
+
+Implemented a structured risk register containing:
+
+* Impact classification
+* Probability level
+* Risk owner
+* Mitigation plan
+* Due date
+* Active monitoring state
+
+### Risk Log Structure
+
+![Risk Log Structure](screenshots/risk-log-structure.png)
+
+### Mitigation Execution Example
+
+Active risk mitigation linked directly to execution tasks:
+
+![Risk Mitigation Execution](screenshots/risk-mitigation-execution.png)
+
+---
+
+## 5. Work Volume & Traceability
+
+Maintained structured visibility across all work items:
+
+* Task ownership clarity
+* Workload balancing
+* Auditability of changes
+* Transparent history of execution
+
+![Work Volume Overview](screenshots/work-volume-overview.png)
+
+---
+
+# My Role
+
+* Designed Jira project structure and workflow architecture
+* Established sprint cadence governance model
+* Implemented structured risk tracking system
+* Created release version control framework
+* Defined milestone-level scope boundaries
+* Maintained backlog decomposition and traceability
+* Conducted weekly delivery alignment reviews
+
+This project reflects ownership of delivery governance rather than passive participation.
+
+---
+
+# Tools & Frameworks
+
+* Jira (Scrum Board, Releases, Filters, Labels)
+* Git & GitHub
+* Sprint-Based Agile Methodology
+* Risk Management Practices
+* Backlog Decomposition Strategy
+* Milestone Governance Model
+
+---
+
+# Repository Structure
+
+```
+/screenshots   → Jira governance artifacts
+Jira.csv       → Full work item export (all fields)
+README.md      → Project documentation
+```
+
+---
+
+# Key Outcomes
+
+* Simulated real-world Agile product delivery environment
+* Maintained structured milestone governance
+* Controlled scope creep through backlog discipline
+* Implemented proactive risk mitigation strategy
+* Achieved full traceability from requirement to execution
+* Delivered all milestones on schedule
+
+---
+
+# Why This Matters
+
+This repository demonstrates capability in:
+
+* Delivery architecture design
+* Agile governance implementation
+* Risk management discipline
+* Execution transparency
+* Structured milestone control
+
+It reflects readiness to operate in structured product environments where delivery accountability and scope governance are critical.
+
+---
