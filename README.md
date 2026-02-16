@@ -2,7 +2,6 @@
 
 ## Agile Product Delivery Governance (Jira Implementation)
 
----
 
 ## Executive Summary
 
@@ -12,7 +11,6 @@ This repository demonstrates structured backlog architecture, sprint cadence con
 
 All major milestones were delivered on schedule across five sprint cycles.
 
----
 
 ## Project Context
 
@@ -24,7 +22,6 @@ All major milestones were delivered on schedule across five sprint cycles.
 The objective extended beyond building a playable prototype.
 The core focus was implementing a structured Agile delivery system reflecting real-world product execution standards.
 
----
 
 ## Delivery Metrics Snapshot
 
