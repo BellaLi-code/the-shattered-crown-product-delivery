@@ -17,7 +17,7 @@ All major milestones were delivered on schedule across five sprint cycles.
 ## Project Context
 
 **Course:** CS4483 – Agile Product Delivery
-**Team Size:** 2
+**Team Size:** 3
 **Duration:** 4 Months
 **Product:** 2D Boss-Focused Action Game (Unity Prototype)
 
@@ -33,7 +33,7 @@ The core focus was implementing a structured Agile delivery system reflecting re
 | Duration                   | 4 Months |
 | Sprint Cycles              | 5        |
 | Epics                      | 7        |
-| Total Work Items           | 68       |
+| Total Work Items           | 70+      |
 | Major Deliverables         | 4        |
 | On-Time Milestone Delivery | 100%     |
 
